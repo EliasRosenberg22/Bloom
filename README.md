@@ -1,0 +1,2 @@
+# Bloom
+Final project for cs98. Bloom allows users to generate interactive song recommendation trees that show their listening choices. Nodes can be weighted by Spotify metadata tags like tempo, feeling, and danceability to influence the recommendation algorithm. We wanted to give music fans a fun way to visualize their listening patterns, and find new songs. All data and song playback comes from Spotify's API, so users must have a Spotify premium account to login and access all app features.  
