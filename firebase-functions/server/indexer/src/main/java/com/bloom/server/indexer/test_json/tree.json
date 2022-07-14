@@ -1,0 +1,79 @@
+{
+    "root": {
+        "name": "yellow submarine",
+        "songID": "TR10089",
+        "album_cover": ".../link",
+        "rec": 0,
+        "attr": "mood",
+        "visibility": true
+    },
+    "left": {
+        "root": {
+            "name": "Jesus etc.",
+            "songID": "TR9989",
+            "album_cover": ".../link",
+            "rec": 0,
+            "attr": "mood",
+            "visibility": true
+        },
+        "left": {
+            "root": {
+                "name": "hello",
+                "songID": "OBGYN3",
+                "album_cover": ".../link",
+                "rec": 1,
+                "attr": "mood",
+                "visibility": false
+            },
+            "left": null,
+            "right": null
+        },
+        "right": {
+            "root": {
+                "name": "flo-rida",
+            "songID": "JESUS2",
+            "album_cover": ".../link",
+            "rec": 0,
+            "attr": "mood",
+            "visibility": false
+            },
+            "left": null,
+            "right": null
+        }
+    },
+    "right": {
+        "root": {
+            "name": "99 problems",
+            "songID": "JK9989",
+            "album_cover": ".../link",
+            "rec": 0,
+            "attr": "tempo",
+            "visibility": true
+        },
+        "left": {
+            "root": {
+                "name": "I love you yeah yeah",
+                "songID": "OBGYN2",
+                "album_cover": ".../link",
+                "rec": 1,
+                "attr": "mood",
+                "visibility": false
+            },
+            "left": null,
+            "right": null
+        },
+        "right": {
+            "root": {
+                "name": "panther",
+                "songID": "JETUS2",
+                "album_cover": ".../link",
+                "rec": 2,
+                "attr": "mood",
+                "visibility": false
+            },
+            "left": null,
+            "right": null
+        }
+    }
+
+}

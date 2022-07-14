@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "tools for using firestore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarnold5/bloom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarnold5/bloom/issues"
+  },
+  "homepage": "https://github.com/aarnold5/bloom#readme",
+  "dependencies": {
+    "firebase": "^9.6.6",
+    "firebase-admin": "^10.0.2"
+  }
+}
